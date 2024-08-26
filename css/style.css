@@ -1,0 +1,55 @@
+body {
+  background-color:#9f9f9f;
+  color: #000;
+  font-size: 20px;
+  font-family: sans-serif;
+  a:link {
+    color: #1177ff;
+  }
+  a:visited {
+    color: #1177ff;
+  }
+}
+
+/* title */
+.title-box {
+  background-color: #eebb66;
+  width: 330px;
+  background-image: url(../img/Astolfo-laying.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.title {
+  color: #ff66cf;
+}
+
+/* sub title description thingy ig */
+.desc,
+.desc1{
+  background-color: #9f9f9f;
+  color: #ffee55;
+  font-size: 22px;
+  margin: 20px;
+  border: 3px groove;
+ 
+
+  border-top-color: #dddddd;  
+  border-left-color: #dddddd;
+  border-bottom-color: #444444; 
+  border-right-color: #444444;
+}
+
+
+.desc{
+  width: 185px;
+}
+.desc1 {
+  width: 90px;
+}
+
+.ul1{
+  width: 150px;
+  border: 5px solid #000;
+  text-shadow: 5px 3px 5px #ffff33;
+}
